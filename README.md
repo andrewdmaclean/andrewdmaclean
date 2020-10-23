@@ -6,6 +6,6 @@
 
 ### Here's where you can [find me](https://andrewdmaclean.com) on the web :computer:
 
-### Connect with me on [Twitter](https://twitter.com/andrewdmaclean) :bird: or on [LinkedIn](https://ca.linkedin.com/in/andrewdmaclean) :briefcase:
+#### Connect with me on [Twitter](https://twitter.com/andrewdmaclean) :bird: or on [LinkedIn](https://ca.linkedin.com/in/andrewdmaclean) :briefcase:
 
 Also check out my other technology/education projects like [HighTechU](https://hightechu.ca) and the [MyView Youth Film Festival](https://myviewfilmfest.ca)
